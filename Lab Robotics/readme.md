@@ -36,4 +36,24 @@ e. Arduino
 f. Connector cable  
   
 We will controll individualy each digit of the segment with the joystick. Using the X-azis, cycle through the digits and chose which one to modify. Light up the DP led of the current position. After that, use the Y- axis to modify the value of the digit, both up and down. Press the button again to unlock the selection and be able to cycle through the 4 digits again.
+
+
+
+For the fifth homework we'll need:
+a. 1 LCD
+b. 1 Joystick
+c. Resistors
+D. Wires
+e. Arduino
+f. Connector Cable.
+
+The task is to create a menu in the LCD which we will scroll through with the joystick. The menu structure should be the following:
+  a. Start game, it will show 3 things on the same screen:
+       Lives, Level and Score
+  b. Highscore
+  c. Settings.
+       Here you can set the starting level.
+       
+Video link : https://www.youtube.com/watch?v=q08J3pF4U8k
+      
   
