@@ -4,7 +4,7 @@
 
 ### It's a game in which the player needs to move a yellow box by tilting the whole system in that particular direction that he wants. The idea of the game is to touch the green points (which will increase your score) and to avoid the red ones and also the blue margins of the game. At the moment, the game has only 1 game mode : Infinity. In this game mode the player needs to get as many points as he can until the time is over. In the future another game mode will be implemented: Campaign.
 
-[aa](./Final image.jpeg)
+[aa](https://github.com/bazycristi21/Robotics/blob/master/Slippery%20Box/Final%20image.jpeg)
 
 ## Requirements for the project
 
