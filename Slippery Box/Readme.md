@@ -17,3 +17,8 @@
 ## How to play
 
 ### The game starts with an animation and the display becomes blue. After that, the player, represented by a yellow box (11x11 px) will spawn in the middle of the display and will observe 1 green (6x6 px) dot and 1 red (5x5 px) dot. The player can move the box by tilting the system in the way that he wants the box to move. Be careful and don't touch the blue margins. The task is to get as many green points as you can, without touching the red ones or the blue margins. Each play has 30 seconds, after that the game will end with an animation and the display will become red. Each green point that you take will give you 2 points. After finishing the game if you have a new record score you can write your name and it will be saved in the highscore menu.
+
+
+
+## Enjoy the game
+### Presentation video: https://youtu.be/jwOeV96rVSw
