@@ -6,11 +6,11 @@
 ## Requirements for the project
 #### 1. 128px x 128px LCD display  (for rendering the game)
 #### 2. 32px x 256px LCD display   (for the menu)
-### 3. Joystick 
-### 4. Accelerometer - MPU6050
-### 5. Arduino MEGA
-### 6. Wires
-### 7. Conector cable
+#### 3. Joystick 
+#### 4. Accelerometer - MPU6050
+#### 5. Arduino MEGA
+#### 6. Wires
+#### 7. Conector cable
 
 ## How to play
 ### Y
